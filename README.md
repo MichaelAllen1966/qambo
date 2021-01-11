@@ -4,7 +4,7 @@ Experiments in Deep Q Learning controlling ambulance placement
 
 ## Run on BinderHub:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelAllen1966/qambo/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelAllen1966/qambo/main)
 
 # General description
 
