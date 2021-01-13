@@ -56,7 +56,7 @@ ax2.set_title('2 incident areas, 6 ambulances')
 
 
 ax3 = fig.add_subplot(133)
-path = './2_incident_points_6_ambo/output/'
+path = './3_incident_points_9_ambo/output/'
 x = []
 for key, value in results_files.items():
     filename = path + value
@@ -77,7 +77,7 @@ for item in leg.legendHandles:
     item.set_visible(False)
     
 plt.tight_layout(pad=2)
-plt.savefig('call_to_arrival.jpg', dpi=300, bbox_inches='tight')
+plt.savefig('call_to_arrival.jpg', dpi=300, bbox_inches='tight', pad_inches=0.5)
 plt.show()
 
 ############################################################################### Assignment to response
@@ -99,7 +99,7 @@ for key, value in results_files.items():
     x.append(df['assign_to_arrival'].values) 
     
 ax1.boxplot(x, whis=1000, widths=0.8)
-ax1.set_ylim(8,26)
+ax1.set_yticks(np.arange(8,30,2))
 ax1.set_ylabel('Call to response (minutes)')
 ax1.set_title('1 incident area, 3 ambulances')
 
@@ -113,13 +113,13 @@ for key, value in results_files.items():
     x.append(df['assign_to_arrival'].values) 
     
 ax2.boxplot(x, whis=1000, widths=0.8)
-ax2.set_ylim(8,26)
+ax2.set_yticks(np.arange(8,30,2))
 ax2.set_ylabel('Call to response (minutes)')
 ax2.set_title('2 incident areas, 6 ambulances')
 
 
 ax3 = fig.add_subplot(133)
-path = './2_incident_points_6_ambo/output/'
+path = './3_incident_points_9_ambo/output/'
 x = []
 for key, value in results_files.items():
     filename = path + value
@@ -127,7 +127,7 @@ for key, value in results_files.items():
     x.append(df['assign_to_arrival'].values) 
     
 ax3.boxplot(x, whis=1000, widths=0.8)
-ax3.set_ylim(8,26)
+ax3.set_yticks(np.arange(8,30,2))
 ax3.set_ylabel('Call to response (minutes)')
 ax3.set_title('3 incident areas, 9 ambulances')
 
@@ -140,5 +140,5 @@ for item in leg.legendHandles:
     item.set_visible(False)
     
 plt.tight_layout(pad=2)
-plt.savefig('assign_to_arrival.jpg', dpi=300, bbox_inches='tight')
+plt.savefig('assign_to_arrival.jpg', dpi=300, bbox_inches='tight', )
 plt.show()

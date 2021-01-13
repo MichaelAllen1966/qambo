@@ -1,0 +1,82 @@
+\begin{thebibliography}{10}
+
+\bibitem{li_deep_2018}
+Y.~Li, ``Deep reinforcement learning: An overview,'' {\em arXiv:1701.07274
+  [cs]}, Nov. 2018.
+\newblock arXiv: 1701.07274.
+
+\bibitem{monks_using_2017}
+T.~Monks and R.~Meskarian, ``Using simulation to help hospitals reduce
+  emergency department waiting times: {Examples} and impact,'' in {\em 2017
+  {Winter} {Simulation} {Conference} ({WSC})}, pp.~2752--2763, Dec. 2017.
+\newblock ISSN: 1558-4305.
+
+\bibitem{penn_towards_2020}
+M.~L. Penn, T.~Monks, A.~A. Kazmierska, and M.~R. A.~R. Alkoheji, ``Towards
+  generic modelling of hospital wards: Reuse and redevelopment of simple
+  models,'' {\em Journal of Simulation}, vol.~14, pp.~107--118, Apr. 2020.
+\newblock Publisher: Taylor \& Francis \_eprint:
+  https://doi.org/10.1080/17477778.2019.1664264.
+
+\bibitem{clarey_ambulance_2014}
+A.~Clarey, M.~Allen, S.~Brace-McDonnell, and M.~W. Cooke, ``Ambulance
+  handovers: can a dedicated {ED} nurse solve the delay in ambulance turnaround
+  times?,'' {\em Emergency medicine journal: EMJ}, vol.~31, pp.~419--420, May
+  2014.
+
+\bibitem{team_simpy_simpy_2020}
+SimPy, ``Simpy. discrete event simulation for python.,'' {\em
+  https://simpy.readthedocs.io/en/latest/}, 2020.
+
+\bibitem{allen_integrating_2020}
+M.~Allen and T.~Monks, ``Integrating {Deep} {Reinforcement} {Learning}
+  {Networks} with {Health} {System} {Simulations},'' {\em arXiv:2008.07434
+  [cs]}, July 2020.
+\newblock arXiv: 2008.07434.
+
+\bibitem{brotcorne_ambulance_2003}
+L.~Brotcorne, G.~Laporte, and F.~Semet, ``Ambulance location and relocation
+  models,'' {\em European Journal of Operational Research}, vol.~147,
+  pp.~451--463, June 2003.
+
+\bibitem{tassone_comprehensive_2020}
+J.~Tassone and S.~Choudhury, ``A {Comprehensive} {Survey} on the {Ambulance}
+  {Routing} and {Location} {Problems},'' {\em arXiv:2001.05288 [cs]}, Jan.
+  2020.
+\newblock arXiv: 2001.05288.
+
+\bibitem{ji_deep_2019}
+S.~Ji, Y.~Zheng, Z.~Wang, and T.~Li, ``A {Deep} {Reinforcement}
+  {Learning}-{Enabled} {Dynamic} {Redeployment} {System} for {Mobile}
+  {Ambulances},'' {\em Proceedings of the ACM on Interactive, Mobile, Wearable
+  and Ubiquitous Technologies}, vol.~3, pp.~15:1--15:20, Mar. 2019.
+
+\bibitem{liu_ambulance_2020}
+K.~Liu, X.~Li, C.~C. Zou, H.~Huang, and Y.~Fu, ``Ambulance {Dispatch} via
+  {Deep} {Reinforcement} {Learning},'' in {\em Proceedings of the 28th
+  {International} {Conference} on {Advances} in {Geographic} {Information}
+  {Systems}}, pp.~123--126, New York, NY, USA: Association for Computing
+  Machinery, Nov. 2020.
+
+\bibitem{van_hasselt_deep_2015}
+H.~van Hasselt, A.~Guez, and D.~Silver, ``Deep {Reinforcement} {Learning} with
+  {Double} {Q}-learning,'' {\em arXiv:1509.06461 [cs]}, Dec. 2015.
+\newblock arXiv: 1509.06461.
+
+\bibitem{wang_dueling_2016}
+Z.~Wang, T.~Schaul, M.~Hessel, H.~van Hasselt, M.~Lanctot, and N.~de~Freitas,
+  ``Dueling {Network} {Architectures} for {Deep} {Reinforcement} {Learning},''
+  {\em arXiv:1511.06581 [cs]}, Apr. 2016.
+\newblock arXiv: 1511.06581.
+
+\bibitem{schaul_prioritized_2016}
+T.~Schaul, J.~Quan, I.~Antonoglou, and D.~Silver, ``Prioritized {Experience}
+  {Replay},'' {\em arXiv:1511.05952 [cs]}, Feb. 2016.
+\newblock arXiv: 1511.05952.
+
+\bibitem{osband_deep_2016}
+I.~Osband, C.~Blundell, A.~Pritzel, and B.~Van~Roy, ``Deep {Exploration} via
+  {Bootstrapped} {DQN},'' {\em arXiv:1602.04621 [cs, stat]}, July 2016.
+\newblock arXiv: 1602.04621.
+
+\end{thebibliography}
