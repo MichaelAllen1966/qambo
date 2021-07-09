@@ -579,6 +579,7 @@ class Env(gym.Env):
         self.simpy_env = simpy.Environment()
 
         # Reset lists and trackers
+        self.ambos_assigned_to_dispatch_points = np.zeros(self.number_dispatch_points)
         self.completed_incidents = []
         self.free_ambulances = []
         self.unallocated_ambos = []
