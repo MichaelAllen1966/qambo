@@ -1,6 +1,8 @@
 # qambo
 Experiments in Deep Q Learning controlling ambulance placement
 
+[![DOI](https://zenodo.org/badge/326734877.svg)](https://zenodo.org/badge/latestdoi/326734877)
+
 ### Introductory video
 
 https://youtu.be/UYJtOLYcOU8
